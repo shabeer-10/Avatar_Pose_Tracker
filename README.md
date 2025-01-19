@@ -26,4 +26,6 @@ This project utilizes MediaPipe and OpenCV to perform real-time pose tracking an
 
 ## Usage
 Run the script:
+```
 python Avatar_Pose_Tracker.py
+```
