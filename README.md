@@ -29,3 +29,5 @@ Run the script:
 ```
 python Avatar_Pose_Tracker.py
 ```
+![Avatar Pose Tracker](avatar_demo.png)
+
